@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi everyone! 👋
+My name is Sergei, I have experience more then 10 years in IT. In my activity I using Agile approch and ITIL principles. Over the past 1,5 years, I actively evolve my DevOps skills, improve personal knowleges of professional tools
+
+
 
 <!--
 **SergeyErshov/SergeyErshov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
