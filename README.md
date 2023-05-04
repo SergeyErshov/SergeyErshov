@@ -22,6 +22,9 @@ My name is Sergei, I have experience more then 10 years in IT. In my activity I 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title="Slack" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" title="K8s" width="60" height="60"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" width="60" height="60"/>&nbsp;
+
+          
 
           
 
